@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TapTap</string>
+    <string name="accessibility_service_description">Χρησιμοποιείται για την αυτόματη προσομοίωση πατημάτων (tap tap) στην οθόνη για Live streams στο TikTok και παιχνίδια.</string>
+    <string name="overlay_notification_title">TapTap Auto Clicker</string>
+    <string name="overlay_notification_text">Το πλωτό μενού TapTap είναι ενεργό. Πατήστε για επαναφορά.</string>
+    <string name="channel_name">Υπηρεσία TapTap</string>
+    <string name="channel_description">Ειδοποιήσεις για το πλωτό παράθυρο TapTap</string>
+</resources>

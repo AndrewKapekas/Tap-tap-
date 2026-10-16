@@ -1,0 +1,6 @@
+{
+  "name": "TapTap",
+  "description": "Auto-clicker & Tap-Tap assistant for TikTok Live streams, videos, and games",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
